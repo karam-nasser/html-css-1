@@ -1,0 +1,19 @@
+index.css
+*{
+    border: 1px solid green;
+    padding: 50 px;
+}
+
+h2 {
+    color:darkgoldenrod;
+}
+
+p{
+    background-color: rgb(252, 252, 252);
+    color:antiquewhite
+}
+
+span {
+    background-color: rgb(250, 249, 248);
+    color:darkblue
+}
